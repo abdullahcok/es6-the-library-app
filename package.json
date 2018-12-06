@@ -1,0 +1,23 @@
+{
+  "name": "the-library-v.0.0.1",
+  "version": "0.0.1",
+  "description": "books are everywhere",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahcok/es6-the-library-app.git"
+  },
+  "keywords": [
+    "book",
+    "library"
+  ],
+  "author": "abdullahcok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullahcok/es6-the-library-app/issues"
+  },
+  "homepage": "https://github.com/abdullahcok/es6-the-library-app#readme"
+}
